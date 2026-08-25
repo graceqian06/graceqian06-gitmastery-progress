@@ -271,5 +271,14 @@
       "Great job using git branch to delete both merged and unmerged branches!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787625879.132923,
+    "completed_at": 1787625882.377863,
+    "comments": [
+      "Branch 'feature-delete' still exists! Remember to delete it after merging!"
+    ],
+    "status": "Incomplete"
   }
 ]
